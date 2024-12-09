@@ -26,3 +26,14 @@
     display: flex;
     margin-top: -2em;
 }
+#dren{
+    margin-left: 5px;
+}
+#djathtas{
+   background-color: blue;
+   width: 500px;
+   height: 200px;
+   border-radius: 20px;
+   color: white;
+   font-size: larger;
+}
