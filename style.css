@@ -28,12 +28,33 @@
 }
 #dren{
     margin-left: 5px;
+    
 }
 #djathtas{
    background-color: blue;
    width: 500px;
-   height: 200px;
+   height: 150px;
    border-radius: 20px;
    color: white;
    font-size: larger;
+   display: flex;
+   justify-content: space-evenly;
+}
+#kaltert{
+    padding: 20px;
+}
+#pare{
+   display: flex;
+}
+#money{
+    display: flex;
+}
+#krejt{
+    display: flex;
+}
+#orjon{
+    display: flex;
+    justify-content: space-evenly;
+    
+
 }
